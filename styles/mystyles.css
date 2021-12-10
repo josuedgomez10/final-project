@@ -1,0 +1,54 @@
+body{
+    background-color: rgba(153, 147, 147, 0.986);
+
+}
+
+.bottom{
+    color: rgb(18, 18, 172);
+    background-color: transparent;
+    text-decoration: none;
+    margin: 0px;
+    text-align: center;
+}
+
+.bottom:hover{
+    color: purple;
+    text-decoration: underline;
+    background-color: transparent;
+}
+
+.firstp{
+    font-size: 23px;
+}
+
+.party{
+    font-size: 50px;
+    font-style: italic;
+}
+
+.thefam{
+    height: 700x;
+    width: 550px;
+    border-color: black;
+    border-style: solid;
+    
+}
+
+.kayla{
+    height: 700px;
+    width: 550px;
+    border-style: solid;
+    border-color: black;
+}
+
+.abouttitles{
+    color: rgb(36, 7, 7);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.soccer{
+    height: 700px;
+    width: 550px;
+    border-style: solid;
+    border-color: black;
+}
